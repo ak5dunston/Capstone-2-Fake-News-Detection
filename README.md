@@ -1,2 +1,2 @@
-# Data-Science
+# Fake News Detection
 Course work
